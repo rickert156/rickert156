@@ -6,5 +6,5 @@ Latest
 
 Languages and Tools
 
-Follow Me: 
+Follow Me: \n
 ![X (formerly Twitter)](https://img.shields.io/twitter/follow/:Rickert156)
