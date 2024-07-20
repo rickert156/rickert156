@@ -7,4 +7,4 @@ Latest
 Languages and Tools
 
 Follow Me: 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:Rickert156)
+![X (formerly Twitter)](https://img.shields.io/twitter/follow/:Rickert156)
