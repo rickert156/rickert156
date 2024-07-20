@@ -4,7 +4,7 @@
 		text-emphasis: none;
 		border: 1px solid, blueviolet;
 	}
-</style>>
+</style>
 
 ![Header](https://github.com/rickert156/rickert156/blob/main/assets/header.jpg)
 
