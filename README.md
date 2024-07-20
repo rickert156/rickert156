@@ -3,10 +3,15 @@
 # Rickert's account
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=Ruby" alt="Ruby"/>
+</p>
 
 ## Follow me:
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/Rickert156)
-
+<p align="left">
+  <a href="https://twitter.com/ваш-профиль">
+    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" alt="Twitter"/>
+  </a>
+</p>
