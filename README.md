@@ -7,3 +7,4 @@ Latest
 Languages and Tools
 
 Follow Me
+<a href='https://x.com/Rickert156'>Twitter</a>
