@@ -7,4 +7,4 @@ Latest
 Languages and Tools
 
 Follow Me: 
-<a style='color: red; text-decoration: none;border: 1px solid, blueviolet;' href='https://x.com/Rickert156'>Twitter</a>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:Rickert156)
