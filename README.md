@@ -1,4 +1,4 @@
-![Header](https://github.com/rickert156/rickert156/blob/main/assets/header.jpg)
+![Header](https://github.com/rickert156/rickert156/blob/main/assets/img2.png)
 
 # Rickert's account
 
