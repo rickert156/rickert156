@@ -5,8 +5,9 @@
 ## Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=Ruby" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=SQLite" alt="SQLite"/>
 </p>
 
 ## Follow me:
