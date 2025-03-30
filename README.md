@@ -1,6 +1,7 @@
 ![Header](https://github.com/rickert156/rickert156/blob/main/assets/header.jpg)
 
-# Rickert's account
+# Give people freedom!
+## Rickert156
 
 ## Follow me:
 <p align="left">
